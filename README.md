@@ -149,3 +149,9 @@ unattended_origins_patterns: []
 ## License
 
 GPLv2
+
+## Author Information
+
+Steamulo - www.steamulo.com
+
+Forked from [jnv](https://github.com/jnv)
